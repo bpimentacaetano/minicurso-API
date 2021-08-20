@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "reader",
+    "password": "NWDMCE5xdipIjRrp",
+    "database": "pfmegrnargs",
+    "host": "hh-pgsql-public.ebi.ac.uk",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
+
